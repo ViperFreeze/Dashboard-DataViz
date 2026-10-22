@@ -15,10 +15,6 @@ Tableau de bord interactif réalisé avec **Streamlit** et **Python** (pandas, P
 - **Contenu :** 16 598 jeux vendus à plus de 100 000 exemplaires, avec plateforme, année, genre, éditeur et ventes par région (Amérique du Nord, Europe, Japon, reste du monde), en millions d'unités
 - **Nettoyage :** suppression des 271 jeux sans année et des 4 jeux postérieurs à 2016, éditeurs manquants regroupés sous « Inconnu », genres traduits en français. Il reste **16 323 jeux**. L'année 2016 est incomplète dans la source.
 
-## Le tableau de bord
-
-**Filtres (barre latérale)** — période, marché analysé (Monde ou une région), genres et plateformes. Tous les indicateurs et graphiques se recalculent selon la sélection.
-
 ## Analyse
 
 - **Un pic en 2008** (≈ 679 M d'unités vendues), porté par la Wii, la DS, la PS3 et la Xbox 360, puis un net recul (≈ 264 M en 2015), en partie lié à la montée du jeu mobile et dématérialisé, absent de ces données.
